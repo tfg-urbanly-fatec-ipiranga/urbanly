@@ -244,3 +244,22 @@ Permite que administradores moderem comentários feitos pelos usuários.
 
 **Pós-condições**
 - O comentário é moderado.
+
+---
+
+# UC11 – Editar Perfil
+
+**Ator principal:** Usuário
+
+**Descrição:**  
+Permite que o usuário altere informações do seu perfil.
+
+**Pré-condições**
+- O usuário possui uma conta cadastrada.
+
+**Fluxo principal**
+
+1. Usuário acessa perfil
+2. Usuário seleciona editar
+3. Usuário altera dados
+4. Sistema salva alterações
