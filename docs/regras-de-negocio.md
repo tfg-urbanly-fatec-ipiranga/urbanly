@@ -81,3 +81,9 @@ Essas informações incluem:
 - comentários
 
 Caso um visitante tente acessar essas informações, o sistema deve solicitar autenticação.
+
+---
+
+## RN008 – Unicidade de palavras-chave por estabelecimento
+
+O sistema deve garantir que palavras-chave associadas a um estabelecimento sejam únicas, não permitindo que a mesma palavra-chave seja cadastrada mais de uma vez para o mesmo estabelecimento.
